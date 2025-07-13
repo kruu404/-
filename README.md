@@ -14,6 +14,8 @@
    ps：启动程序执行时
 
 ## （3）五种基本状态及其转换
+![进程的五种基本状态.jpg](https://github.com/user-attachments/assets/4ba8ec69-6003-43f3-84f0-c6619ac46cf1)
+
 
 ## （4）终止
 1. 根据被中止进程的标识符从PCB集合中检索出该进程的PCB，从中读出该进程的状态  
