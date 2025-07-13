@@ -19,6 +19,7 @@
 ## 2. 进程状态转换
 
 ### 五种基本状态及转换
- 
+ ![状态转换图.jpg](https://github.com/user-attachments/assets/4ba8ec69-6003-43f3-84f0-c6619ac46cf1)
+
 
 ### 状态转换图
