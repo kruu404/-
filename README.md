@@ -38,7 +38,9 @@
 <br>②程序接口
 
 ##例题
-①与宏内核操作系统相比，微内核操作系统具有<font color="blue">蓝色文</font>
+①与宏内核操作系统相比，微内核操作系统具有<span style="color:red;">红色文字</span>
+<font color="blue">蓝色文字</font>
+
 
 # 第二章
 
