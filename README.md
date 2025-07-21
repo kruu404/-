@@ -13,7 +13,8 @@
 <br>①进程控制：为作业创建进程、撤销已结束进程、控制进程在运行过程中的状态转换
 <br>②进程同步：为多个进程的运行进行协调，有进程互斥和进程同步两种协调方式
 <br>③进程通信：在相互合作的进程之间的信息交换
-<br>④调度：分为作业调度和进程调度![IMG20250721120618.jpg](https://github.com/user-attachments/assets/15a34991-895e-4b1b-85ba-4fc57e7b211e)
+<br>④调度：分为作业调度和进程调度
+![IMG20250721120618.jpg](https://github.com/user-attachments/assets/15a34991-895e-4b1b-85ba-4fc57e7b211e)
 
 # 第二章
 
