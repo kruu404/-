@@ -72,7 +72,7 @@
 
 ### （4）挂起状态
 #### 原因：终端用户请求、父进程请求、负荷调节需要、操作系统需要
-![挂起.jpg](https://github.com/user-attachments/assets/46a69890-ba56-472b-b4b3-21e3d740e695
+![挂起.jpg](https://github.com/user-attachments/assets/46a69890-ba56-472b-b4b3-21e3d740e695)
 
 ### （5）终止
 1. 根据被中止进程的标识符从PCB集合中检索出该进程的PCB，从中读出该进程的状态  
